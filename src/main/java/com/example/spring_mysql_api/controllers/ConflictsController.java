@@ -22,7 +22,7 @@ public class ConflictsController {
     public String patchConflicts(){
         return "Patching Conflicts";
 }
-@PutMapping("/conflicts")
+    @PutMapping("/conflicts")
     public String putConflicts(){
         return "Putting Conflicts";
 }
