@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 import java.security.PublicKey;
 
 @SpringBootTest
-class SpringMysqlApiApplicationTests {
+class ApplicationTests {
 
 	@Test
 	void contextLoads() {
